@@ -1,3 +1,3 @@
 # TextSummarization
 
-contents ...
+Text summarization is a crucial technique in Natural Language Processing (NLP) that automatically condenses large volumes of text into shorter, more digestible summaries. There are two main types: extractive summarization, which selects key sentences directly from the original text, and abstractive summarization, which generates new sentences to capture the main ideas. Our project focuses on developing a model using [Fine-tuning] Fine-tuning a model typically refers to taking a pre-trained machine learning model and help to create accurate and informative summaries. The goal is to improve information retrieval and make content more accessible across various industries![Uploading image.png…]()
